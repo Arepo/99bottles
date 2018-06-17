@@ -1,3 +1,3 @@
 # 99 Bottles
 
-Working through Metz and Owen's book
+Working through Metz and Owen's process
